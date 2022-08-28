@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#person{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+header{
+    background-color: rgb(150, 166, 211);
+    width: 100%;
+    height: 75px;
+}
+.navigation{
+    float: right;
+    margin: 30px;
+    margin-left: 30px; 
+}
+a{
+    color:white;
+    text-decoration: none;
+    border: 1PX solid red;
+    padding: 10px;
+    margin: 75px;
+    background-color: rgb(179, 78, 78);
+    font-size: 15px;
+    font-weight: bold;
+}
+.navigation a:hover{
+    background-color:rgb(179, 78, 78);
+    color: black;
+}
+#top{
+    color:black;
+    background-color:white;
+    height: 25;
+    padding: 25px; 
+    text-align: center;
+}
+#pabo{
+    background-color: rgb(184, 226, 184);
+    height: 150px;
+padding: 50px;
+font-size: 20px;
+}
+#pski{
+    background-color:rgb(187, 165, 165);
+    height: 150px;
+    padding:50px;
+    font-size: 20px;
+}
+#pedu{
+    background-color: rgb(160, 117, 201);
+    height: 150px;
+padding: 50px;
+font-size: 20px;
+}
+#pexp{
+background-color: rgb(92, 109, 161);
+height: 150px;
+padding: 50px;
+font-size: 20px;
+}
+#con{
+   /* border: 3px solid red;*/
+   /* float:center ;*/
+    background-color: rgb(226, 226, 156);
+    height: 20em;
+   padding: 30px;
+   width: 100%;
+   display: inline-block;
+    font-weight: bold;
+}
+#con{
+    text-align: center;
+}
+label{
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 17px;
+    font-weight: bolder;
+}
+input{
+    padding:4px;
+    margin: 5px;
+    font-size: 16px;
+    border: 1px solid#f9f9f9;
+    width: 7cm;
+}
+#sub{
+    margin-top: 7px;
+    color: white;
+    font-weight: bold;
+    padding: 4px;
+    background-color: rgb(91, 91, 201);
+    font-size: 20px;
+}
+#sub:hover{
+background-color: aliceblue;
+color: black;
+}
+#top{
+background-color: brown;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 1em;
+    text-align: center;
+    padding-bottom: .5em;
+}
